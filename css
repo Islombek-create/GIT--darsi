@@ -1,4 +1,12 @@
-nav{baground-color:black;
+nav{bakground-color:black;
     color:white;
     border:none;
-    border-radius:200px
+    border-radius:40px}
+header{width:100;
+       height:400px;
+       Bakground-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkcsbNB0YsD_fZP8NIFJhx8CKqP1LBffQ3s9vS_E5sXA&s=10);
+        border-radius:40px}
+button{bakground-color:white;
+    color:red;
+    border:none;
+    border-radius:30px}           
